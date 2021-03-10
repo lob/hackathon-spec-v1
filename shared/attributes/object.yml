@@ -1,4 +1,3 @@
 type: string
-description: Value is `address`.
+description: Type of resource.
 readOnly: true
-example: address
